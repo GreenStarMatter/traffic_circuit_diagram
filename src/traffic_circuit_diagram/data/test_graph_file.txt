@@ -1,0 +1,62 @@
+Traffic Light|Project Start|Complete
+Road|Wrote motivation in Google Doc|True|Project Start|Written Motivation
+Traffic Light|Written Motivation|Complete
+Road|Made Traffic Diagrm in LucidChart|True|Project Start|Initial Traffic Diagram Created
+Traffic Light|Initial Traffic Diagram Created|Complete
+Road|Made UML in LucidChart|True|Project Start|UML Diagram
+Traffic Light|UML Diagram|Complete
+Road|Written Motivation Gate Entrance Complete|True|Written Motivation|Infomation Ready to Write UML Checkpoint
+Road|Initial Traffic Diagram Created Gate Complete|True|Initial Traffic Diagram Created|Infomation Ready to Write UML Checkpoint
+Road|UML Diagram Gate Complete|True|UML Diagram|Infomation Ready to Write UML Checkpoint
+Traffic Light Gate|Infomation Ready to Write UML Checkpoint|Complete|AND
+Traffic Light|UML Written Checkpoint|Complete
+Road|Used Google Doc to Write UML Checkpoint|True|Infomation Ready to Write UML Checkpoint|UML Written Checkpoint
+Traffic Light|Scope Chosen|Complete
+Road|Had Thinking Session to Choose Scope|True|Project Start|Scope Chosen
+Traffic Light|Environment Chosen|Complete
+Road|Had Thinking Session to Choose Environment|True|Scope Chosen|Environment Chosen
+Traffic Light Gate|Infomation Prepared to Ready Environment|Complete|AND
+Road|UML Diagram Gate Complete|True|UML Diagram|Infomation Prepared to Ready Environment
+Road|Environment Chosen Gate Complete|True|Environment Chosen|Infomation Prepared to Ready Environment
+Traffic Light|Set Python Environment|Complete
+Road|Set Python Virtual Environment, Libaries, and Package Structure|True|Infomation Prepared to Ready Environment|Set Python Environment
+Traffic Light|Set GitHub Project|Complete
+Road|Set Project Version Control on GitHub|True|Infomation Prepared to Ready Environment|Set GitHub Project
+Traffic Light Gate|All Environment Set|Complete|AND
+Road|Python Environment Gate Complete|True|Set Python Environment|All Environment Set
+Road|GitHub Environment Gate Complete|True|Set GitHub Project|All Environment Set
+Road|Coded TrafficLight in Python Infrastructure|True|All Environment Set|TrafficLight Coded
+Road|Coded LogicGateTrafficLight in Python Infrastructure|True|All Environment Set|LogicGateTrafficLight Coded
+Road|Coded Road in Python Infrastructure|True|All Environment Set|Road Coded
+Road|Coded Environment Setter in Python Infrastructure|True|All Environment Set|Environment Setter Coded
+Traffic Light|TrafficLight Coded|Complete
+Road|Used UML Information to Code Traffic Light Gate Complete|True|TrafficLight Coded|All Objects Coded
+Traffic Light|LogicGateTrafficLight Coded|Complete
+Road|Used UML Information to Code Logic Gate Traffic Light Gate Complete|True|LogicGateTrafficLight Coded|All Objects Coded
+Traffic Light|Road Coded|Complete
+Road|Used UML Information to Code Road Gate Complete|True|Road Coded|All Objects Coded
+Traffic Light|Environment Setter Coded|Complete
+Road|Used UML Information to Code Environment Setter Gate Complete|True|Environment Setter Coded|All Objects Coded
+Traffic Light Gate|Infomation Ready to Write Coded Objects Checkpoint|In Progress|AND
+Road|All UML Information Written Up Gate Complete|True|UML Written Checkpoint|Infomation Ready to Write Coded Objects Checkpoint
+Road|All Objects Coded Gate Complete|True|All Objects Coded|Infomation Ready to Write Coded Objects Checkpoint
+Traffic Light|Coded Objects Written Checkpoint|Not Started
+Road|All Information Ready to Write Coded Objects Checkpoint|False|Infomation Ready to Write Coded Objects Checkpoint|Coded Objects Written Checkpoint
+Traffic Light|Object Interaction Methods Coded|Not Started
+Road|Coded All Object Interaction Methods in Python|False|All Objects Coded|Object Interaction Methods Coded
+Traffic Light Gate|Infomation Ready to Write Object Interaction Methods|Not Started|AND
+Road|Written Objects Gate Completed|False|Coded Objects Written Checkpoint|Infomation Ready to Write Object Interaction Methods
+Road|Coded Interaction Methods Gate Completed|False|Object Interaction Methods Coded|Infomation Ready to Write Object Interaction Methods
+Traffic Light|Object Interaction Methods Written Checkpoint|Not Started
+Road|All Information Prepared to Write Interaction Methods Checkpoint|False|Infomation Ready to Write Object Interaction Methods|Object Interaction Methods Written Checkpoint
+Traffic Light|Traffic Circuit Diagram Application|Not Started
+Road|Used Python to Make Working Application|False|Object Interaction Methods Coded|Traffic Circuit Diagram Application
+Traffic Light|Diagram Sourced from Application|Not Started
+Road|Used Application to Create Diagram by Filling out Test Graph|False|Traffic Circuit Diagram Application|Diagram Sourced from Application
+Traffic Light Gate|Infomation Ready to Finish Blog Post|Not Started|AND
+Road|Object Interaction Checkpoint Gate Completed|False|Object Interaction Methods Written Checkpoint|Infomation Ready to Finish Blog Post
+Road|Diagram Sourced from Application Gate Completed|False|Diagram Sourced from Application|Infomation Ready to Finish Blog Post
+Traffic Light|Blog Post Written|Not Started
+Road|Wrote Blog Post Using Information from Gates|False|Infomation Ready to Finish Blog Post|Blog Post Written
+Traffic Light|Publish First Blog Post|Not Started
+Road|Published First Blog Post on Website|False|Blog Post Written|Publish First Blog Post
