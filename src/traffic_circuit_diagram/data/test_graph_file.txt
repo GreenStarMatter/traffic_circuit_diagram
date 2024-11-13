@@ -37,27 +37,27 @@ Traffic Light|Road Coded|Complete
 Road|Used UML Information to Code Road Gate Complete|True|Road Coded|All Objects Coded
 Traffic Light|Environment Setter Coded|Complete
 Road|Used UML Information to Code Environment Setter Gate Complete|True|Environment Setter Coded|All Objects Coded
-Traffic Light Gate|All Objects Coded|In Progress|AND
-Traffic Light Gate|Infomation Ready to Write Coded Objects Checkpoint|In Progress|AND
+Traffic Light Gate|All Objects Coded|Complete|AND
+Traffic Light Gate|Infomation Ready to Write Coded Objects Checkpoint|Complete|AND
 Road|All UML Information Written Up Gate Complete|True|UML Written Checkpoint|Infomation Ready to Write Coded Objects Checkpoint
 Road|All Objects Coded Gate Complete|True|All Objects Coded|Infomation Ready to Write Coded Objects Checkpoint
-Traffic Light|Coded Objects Written Checkpoint|Not Started
-Road|All Information Ready to Write Coded Objects Checkpoint|False|Infomation Ready to Write Coded Objects Checkpoint|Coded Objects Written Checkpoint
-Traffic Light|Object Interaction Methods Coded|Not Started
-Road|Coded All Object Interaction Methods in Python|False|All Objects Coded|Object Interaction Methods Coded
-Traffic Light Gate|Infomation Ready to Write Object Interaction Methods|Not Started|AND
-Road|Written Objects Gate Completed|False|Coded Objects Written Checkpoint|Infomation Ready to Write Object Interaction Methods
-Road|Coded Interaction Methods Gate Completed|False|Object Interaction Methods Coded|Infomation Ready to Write Object Interaction Methods
-Traffic Light|Object Interaction Methods Written Checkpoint|Not Started
-Road|All Information Prepared to Write Interaction Methods Checkpoint|False|Infomation Ready to Write Object Interaction Methods|Object Interaction Methods Written Checkpoint
-Traffic Light|Traffic Circuit Diagram Application|Not Started
-Road|Used Python to Make Working Application|False|Object Interaction Methods Coded|Traffic Circuit Diagram Application
-Traffic Light|Diagram Sourced from Application|Not Started
-Road|Used Application to Create Diagram by Filling out Test Graph|False|Traffic Circuit Diagram Application|Diagram Sourced from Application
-Traffic Light Gate|Infomation Ready to Finish Blog Post|Not Started|AND
-Road|Object Interaction Checkpoint Gate Completed|False|Object Interaction Methods Written Checkpoint|Infomation Ready to Finish Blog Post
-Road|Diagram Sourced from Application Gate Completed|False|Diagram Sourced from Application|Infomation Ready to Finish Blog Post
-Traffic Light|Blog Post Written|Not Started
+Traffic Light|Coded Objects Written Checkpoint|Complete
+Road|All Information Ready to Write Coded Objects Checkpoint|True|Infomation Ready to Write Coded Objects Checkpoint|Coded Objects Written Checkpoint
+Traffic Light|Object Interaction Methods Coded|Complete
+Road|Coded All Object Interaction Methods in Python|True|All Objects Coded|Object Interaction Methods Coded
+Traffic Light Gate|Infomation Ready to Write Object Interaction Methods|Complete|AND
+Road|Written Objects Gate Completed|True|Coded Objects Written Checkpoint|Infomation Ready to Write Object Interaction Methods
+Road|Coded Interaction Methods Gate Completed|True|Object Interaction Methods Coded|Infomation Ready to Write Object Interaction Methods
+Traffic Light|Object Interaction Methods Written Checkpoint|Complete
+Road|All Information Prepared to Write Interaction Methods Checkpoint|True|Infomation Ready to Write Object Interaction Methods|Object Interaction Methods Written Checkpoint
+Traffic Light|Traffic Circuit Diagram Application|Complete
+Road|Used Python to Make Working Application|True|Object Interaction Methods Coded|Traffic Circuit Diagram Application
+Traffic Light|Diagram Sourced from Application|Complete
+Road|Used Application to Create Diagram by Filling out Test Graph|True|Traffic Circuit Diagram Application|Diagram Sourced from Application
+Traffic Light Gate|Infomation Ready to Finish Blog Post|Complete|AND
+Road|Object Interaction Checkpoint Gate Completed|True|Object Interaction Methods Written Checkpoint|Infomation Ready to Finish Blog Post
+Road|Diagram Sourced from Application Gate Completed|True|Diagram Sourced from Application|Infomation Ready to Finish Blog Post
+Traffic Light|Blog Post Written|Complete
 Road|Wrote Blog Post Using Information from Gates|False|Infomation Ready to Finish Blog Post|Blog Post Written
-Traffic Light|Publish First Blog Post|Not Started
-Road|Published First Blog Post on Website|False|Blog Post Written|Publish First Blog Post
+Traffic Light|Publish First Blog Post|Complete
+Road|Published First Blog Post on Website|True|Blog Post Written|Publish First Blog Post
