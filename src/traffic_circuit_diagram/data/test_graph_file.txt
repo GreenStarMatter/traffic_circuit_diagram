@@ -7,16 +7,16 @@ Road|Made UML in LucidChart|True|Project Start|UML Diagram
 Traffic Light|UML Diagram|Complete
 Road|Written Motivation Gate Entrance Complete|True|Written Motivation|Infomation Ready to Write UML Checkpoint
 Road|Initial Traffic Diagram Created Gate Complete|True|Initial Traffic Diagram Created|Infomation Ready to Write UML Checkpoint
-Road|UML Diagram Gate Complete|True|UML Diagram|Infomation Ready to Write UML Checkpoint
+Road|UML Diagram for Writing Gate Complete|True|UML Diagram|Infomation Ready to Write UML Checkpoint
 Traffic Light Gate|Infomation Ready to Write UML Checkpoint|Complete|AND
 Traffic Light|UML Written Checkpoint|Complete
 Road|Used Google Doc to Write UML Checkpoint|True|Infomation Ready to Write UML Checkpoint|UML Written Checkpoint
 Traffic Light|Scope Chosen|Complete
-Road|Had Thinking Session to Choose Scope|True|Project Start|Scope Chosen
+Road|Had Thinking Session to Choose Scope|True|Written Motivation|Scope Chosen
 Traffic Light|Environment Chosen|Complete
 Road|Had Thinking Session to Choose Environment|True|Scope Chosen|Environment Chosen
 Traffic Light Gate|Infomation Prepared to Ready Environment|Complete|AND
-Road|UML Diagram Gate Complete|True|UML Diagram|Infomation Prepared to Ready Environment
+Road|UML Diagram Gate for Environment Complete|True|UML Diagram|Infomation Prepared to Ready Environment
 Road|Environment Chosen Gate Complete|True|Environment Chosen|Infomation Prepared to Ready Environment
 Traffic Light|Set Python Environment|Complete
 Road|Set Python Virtual Environment, Libaries, and Package Structure|True|Infomation Prepared to Ready Environment|Set Python Environment
@@ -37,6 +37,7 @@ Traffic Light|Road Coded|Complete
 Road|Used UML Information to Code Road Gate Complete|True|Road Coded|All Objects Coded
 Traffic Light|Environment Setter Coded|Complete
 Road|Used UML Information to Code Environment Setter Gate Complete|True|Environment Setter Coded|All Objects Coded
+Traffic Light Gate|All Objects Coded|In Progress|AND
 Traffic Light Gate|Infomation Ready to Write Coded Objects Checkpoint|In Progress|AND
 Road|All UML Information Written Up Gate Complete|True|UML Written Checkpoint|Infomation Ready to Write Coded Objects Checkpoint
 Road|All Objects Coded Gate Complete|True|All Objects Coded|Infomation Ready to Write Coded Objects Checkpoint

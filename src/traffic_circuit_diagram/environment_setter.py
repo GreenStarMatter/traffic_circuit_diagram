@@ -21,11 +21,12 @@ class EnvironmentSetter:
 
     def set_up_graph_using_engine(self):
         if self.graphics_engine == "networkx":
-            self.graphics_engine = NetworkXTrafficEngine()
+            self.graphics_engine = NetworkXTrafficEngine("Custom Algorithm 1")
         else:
             print("Engine Unrecognized")
 
     def upload_stored_graph_to_engine(self):
+        #
         self.graphics_engine.upload_traffic_graph_to_engine(self.traffic_circuit_diagram_container)
 
     def show_network_graph(self):
