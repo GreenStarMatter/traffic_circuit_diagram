@@ -29,7 +29,10 @@ class NetworkXTrafficEngine:
             color = self._get_node_color(traffic_light_object.traffic_status)
             shape = "o"
             if isinstance(traffic_light_object,LogicGateTrafficLight):
-                shape = "s"
+                if traffic_light_object.gate_type == "AND":
+                    shape = "s"
+                elif traffic_light_object.gate_type == "OR":
+                    shape = "^"
             self.traffic_circuit_diagram.add_node(traffic_light_object.outcome_name, name=traffic_light_object.outcome_name, status=traffic_light_object.traffic_status, color = color, shape=shape)
         for road in incoming_traffic_container.roads:
             road_object = incoming_traffic_container.roads[road]
